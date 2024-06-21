@@ -53,3 +53,4 @@ This starter code closely follows the best practices and patterns established in
 By appending `?ssl=true` to the connection URL, you'll ensure a secure connection to your database, resolving any SSL-related issues.
 
 If you have trouble getting the server to run, reach out for assistance.
+# Migrations-with-knex
